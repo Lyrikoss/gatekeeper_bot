@@ -1,0 +1,5 @@
+# Ignore files
+.gguf
+.pyc
+__pycache__
+__init__.py
